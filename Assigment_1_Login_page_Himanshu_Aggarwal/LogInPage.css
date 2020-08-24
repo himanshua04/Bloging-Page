@@ -1,0 +1,10 @@
+#info{
+    width: 320px;
+    border: 20px solid black;
+}
+.red{
+    color : red;
+}
+.full-screen{
+    height: 100vh;
+}
